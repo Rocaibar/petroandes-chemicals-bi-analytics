@@ -36,4 +36,4 @@ Este proyecto simula un entorno corporativo real dentro de la industria petroqu�
 **Rocío Castro**  
 *Ingeniera Química & Data Analyst*  
 📍 Bahía Blanca, Argentina  
-[LinkedIn](www.linkedin.com/in/rocío-castro-a8254930) | [GitHub](https://github.com/)
+[LinkedIn](www.linkedin.com/in/rocío-castro-a8254930) | [GitHub](https://github.com/Rocaibar)
